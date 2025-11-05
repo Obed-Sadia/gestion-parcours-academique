@@ -56,8 +56,8 @@ Ce projet n'étant pas déployé, voici une démonstration animée du parcours u
 
 1.  Clonez ce dépôt :
     ```bash
-    git clone [URL_DE_VOTRE_REPO]
-    cd [NOM_DU_DOSSIER]
+    git clone https://github.com/Obed-Sadia/gestion-parcours-academique.git
+    cd gestion-parcours-academique
     ```
 2.  Installez les dépendances :
     ```bash
