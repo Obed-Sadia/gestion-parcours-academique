@@ -1,6 +1,5 @@
 # Gestionnaire de Parcours Académique (Node.js, Express, SQLite)
 
-**Statut du projet :** Projet de cours
 
 > Application web full-stack permettant aux étudiants de suivre leur progression académique, gérer leurs cours, notes et objectifs. Le projet est composé d'une API RESTful (backend) et d'une interface dynamique en JavaScript (frontend).
 
