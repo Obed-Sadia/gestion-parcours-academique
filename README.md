@@ -2,7 +2,7 @@
 
 **Statut du projet :** Projet de cours
 
-> [cite_start]Application web full-stack permettant aux étudiants de suivre leur progression académique, gérer leurs cours, notes et objectifs[cite: 3]. Le projet est composé d'une API RESTful (backend) et d'une interface dynamique en JavaScript (frontend).
+> Application web full-stack permettant aux étudiants de suivre leur progression académique, gérer leurs cours, notes et objectifs. Le projet est composé d'une API RESTful (backend) et d'une interface dynamique en JavaScript (frontend).
 
 ---
 
